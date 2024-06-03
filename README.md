@@ -7,7 +7,9 @@
 
 - 💾 Online portfolio website made as video game: https://adrian527.github.io/online-portfolio/.
 
-- 💰 Income expense tracker with working authentication https://adrian527.github.io/income-expense-tracker/
+- 💰 Income expense tracker with working authentication https://adrian527.github.io/income-expense-tracker/.
+
+- 🖼️ Template for websites that want to include images and gallery into their buisness https://adrian527.github.io/photo-website/.
 
 - 🦴 Physiotherapy page for small buisness: https://lukaszwolnyfizjoterapia.pl/.
 
