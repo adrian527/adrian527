@@ -3,6 +3,8 @@
 
 <h2 align="center">Projects</h2>
 
+- 👨‍💻 Job offers website with administrator and users accounts: https://job-platform-o2wq.onrender.com/.
+
 - 〽 Cryptocurrency page with day-to-day data analysis, charts, statistics: https://coindatashake.com/.
 
 - 💾 Online portfolio website made as video game: https://adrian527.github.io/online-portfolio/.
